@@ -3,38 +3,43 @@
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" alt="Futuristic Header" style="object-fit: cover;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Futuristic Header" style="object-fit: cover;">
   
   <br />
   <br />
 
-  <h1 align="center">&lt; Bibek Ghimire /&gt;</h1>
+  <h1 align="center">&lt; BIBEK GHIMIRE /&gt;</h1>
   
   <p align="center">
     <a href="https://github.com/your-username">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Architecting+Digital+Realities;React+%7C+Next.js+%7C+.NET+Core;Building+the+Future" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System.Initialize(Profile);Loading+Neural+Networks...;Subject:+Bibek+Ghimire;Class:+Full+Stack+Architect;Status:+Online" alt="Typing SVG" />
     </a>
   </p>
 </div>
 
 <br />
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  SYSTEM STATUS: ONLINE
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  CORE SYSTEM PARAMETERS
 
 ```csharp
-public class Developer
+public class Architect
 {
-    public string Name { get; set; } = "Bibek";
-    public string Role { get; set; } = "Full Stack Architect";
-    public string[] Passion { get; set; } = { "Web3", "AI", "Futurism" };
+    public string Name { get; set; } = "Bibek Ghimire";
+    public string CodeName { get; set; } = "NEO";
+    public string GlobalState { get; set; } = "Building the Future";
     
-    public void BuildFuture()
+    public void Execute()
     {
-        while(Heartbeat.IsActive)
+        // Infinite Loop of Innovation
+        while(true)
         {
-            Code();
-            Innovate();
-            Sleep(Duration.Short);
+            Design(Futuristic.UI);
+            Code(NextGen.Frameworks);
+            Deploy(Global.Scale);
         }
     }
 }
@@ -47,21 +52,24 @@ public class Developer
 <div align="center">
   
   <!-- Frontend -->
-  <a href="https://reactjs.org/">
+  <a href="#">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   </a>
-  <a href="https://nextjs.org/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
   </a>
   
   <!-- Backend -->
-  <a href="https://nodejs.org">
+  <a href="#">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet">
+  <a href="#">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <a href="#">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   </a>
   
@@ -77,6 +85,7 @@ public class Developer
 
 <div align="center">
   <br>
+  <!-- Replace 'your-username' below with 'bibekghimire' or your actual GitHub username -->
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=rogue&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=rogue&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
@@ -88,13 +97,13 @@ public class Developer
 <br />
 
 <div align="center">
-  <a href="https://twitter.com/your-username">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/your-username">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
