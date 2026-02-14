@@ -29,7 +29,7 @@
 public class Architect
 {
     public string Name { get; set; } = "Bibek Ghimire";
-    public string CodeName { get; set; } = "NEO";
+    public string CodeName { get; set; } = "LOGIC";
     public string GlobalState { get; set; } = "Building the Future";
     
     public void Execute()
